@@ -1,0 +1,6 @@
+-geo
+-text
+-in_reply_to_screen_name
+-created_at
+-entities
+-user
